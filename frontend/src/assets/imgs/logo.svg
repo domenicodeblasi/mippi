@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 1024 1024" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(0.873653 0.50088 -0.50088 0.873653 615.813 -143.937)" gradientUnits="userSpaceOnUse" id="LinearGradient" x1="58.3882" x2="619.46" y1="564.205" y2="564.205">
+<stop offset="0" stop-color="#b20d30"/>
+<stop offset="1" stop-color="#826aed"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1.0916 0 0 1.0916 12.6968 -88.976)" gradientUnits="userSpaceOnUse" id="LinearGradient_2" x1="58.3882" x2="619.46" y1="564.205" y2="564.205">
+<stop offset="0" stop-color="#b20d30"/>
+<stop offset="1" stop-color="#826aed"/>
+</linearGradient>
+</defs>
+<g id="Livello-1" vectornator:layerName="Livello 1">
+<path d="M583.663 959.972C715.941 174.341 349.648-134.408 796.751 121.924C1243.85 378.256 551.281 1152.3 583.663 959.972Z" fill="url(#LinearGradient)" fill-rule="nonzero" opacity="1" stroke="#121619" stroke-linecap="butt" stroke-linejoin="round" stroke-width="50.3525" vectornator:layerName="Curva 2"/>
+<path d="M577.618 966.445C278.449 156.342-232.46 63.4827 326.181 63.4827C884.823 63.4827 650.858 1164.77 577.618 966.445Z" fill="url(#LinearGradient_2)" fill-rule="nonzero" opacity="1" stroke="#121619" stroke-linecap="butt" stroke-linejoin="round" stroke-width="54.5801" vectornator:layerName="Curva 1"/>
+</g>
+</svg>
